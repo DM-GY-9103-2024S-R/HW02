@@ -8,9 +8,7 @@
   "postCreateCommand": "",
   "customizations": {
     "codespaces": {
-      "openFiles": [
-        "HW02.ipynb"
-      ]
+      "openFiles": []
     },
     "vscode": {
       "extensions": [
